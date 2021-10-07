@@ -318,7 +318,10 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/VSSettingsProvider.ref.dll"
-"Assets/Scenes/Scripts/PlayerController.cs"
+"Assets/Scenes/Scripts/BackGround Scripts/ScrollingBackground.cs"
+"Assets/Scenes/Scripts/Obstacles/MoveLeft.cs"
+"Assets/Scenes/Scripts/Obstacles/SpawnManager.cs"
+"Assets/Scenes/Scripts/Player Scripts/PlayerController.cs"
 -langversion:8.0
 
 /deterministic
